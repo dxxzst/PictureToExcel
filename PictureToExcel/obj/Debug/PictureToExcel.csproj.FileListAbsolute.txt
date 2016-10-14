@@ -1,0 +1,11 @@
+E:\TestProjects\PictureToExcel\PictureToExcel\bin\Debug\PictureToExcel.exe.config
+E:\TestProjects\PictureToExcel\PictureToExcel\bin\Debug\PictureToExcel.exe
+E:\TestProjects\PictureToExcel\PictureToExcel\bin\Debug\PictureToExcel.pdb
+E:\TestProjects\PictureToExcel\PictureToExcel\obj\Debug\PictureToExcel.Form1.resources
+E:\TestProjects\PictureToExcel\PictureToExcel\obj\Debug\PictureToExcel.Properties.Resources.resources
+E:\TestProjects\PictureToExcel\PictureToExcel\obj\Debug\PictureToExcel.csproj.GenerateResource.Cache
+E:\TestProjects\PictureToExcel\PictureToExcel\obj\Debug\PictureToExcel.exe
+E:\TestProjects\PictureToExcel\PictureToExcel\obj\Debug\PictureToExcel.pdb
+E:\TestProjects\PictureToExcel\PictureToExcel\bin\Debug\EPPlus.dll
+E:\TestProjects\PictureToExcel\PictureToExcel\bin\Debug\EPPlus.xml
+E:\TestProjects\PictureToExcel\PictureToExcel\obj\Debug\PictureToExcel.csprojResolveAssemblyReference.cache
