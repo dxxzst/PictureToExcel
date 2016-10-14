@@ -4,9 +4,8 @@
 3. 将RBG值依此设置为单元格背景色<br/>
 4. 单元格形成马赛克图片<br/>
 
-<br/>
 <h3>示例<h3/><br/>
-原图片：<br/>
-![image](https://github.com/dxxzst/PictureToExcel/images/1.jpg)<br/>
-生成的Excel：<br/>
-![image](https://github.com/dxxzst/PictureToExcel/images/3.jpg)<br/>
+原图片:
+![image](https://github.com/dxxzst/PictureToExcel/blob/master/images/1.jpg)<br/>
+生成的Excel：
+![image](https://github.com/dxxzst/PictureToExcel/blob/master/images/3.png)<br/>
