@@ -5,7 +5,7 @@
 4. 单元格形成马赛克图片<br/>
 
 <h3>示例<h3/><br/>
-原图片:
+原图片：<br/>
 ![image](https://github.com/dxxzst/PictureToExcel/blob/master/images/1.jpg)<br/>
-生成的Excel：
+生成的Excel：<br/>
 ![image](https://github.com/dxxzst/PictureToExcel/blob/master/images/3.png)<br/>
