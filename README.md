@@ -6,6 +6,9 @@
 
 <h3>示例<h3/><br/>
 原图片：<br/>
-![image](https://github.com/dxxzst/PictureToExcel/blob/master/images/1.jpg)<br/>
+![原图片][1]br/>
 生成的Excel：<br/>
-![image](https://github.com/dxxzst/PictureToExcel/blob/master/images/3.png)<br/>
+![生成的Excel][2]br/>
+
+[1]: https://github.com/dxxzst/PictureToExcel/blob/master/images/1.jpg
+[2]: https://github.com/dxxzst/PictureToExcel/blob/master/images/3.png
