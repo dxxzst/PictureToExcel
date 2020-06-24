@@ -5,11 +5,14 @@
  - 将RBG值依此设置为单元格背景色
  - 单元格形成马赛克图片
 
-**示例
+**示例**
 
 原图片：
+
 ![原图片][1]
+
 生成的Excel：
+
 ![生成的Excel][2]
 
 [1]: https://github.com/dxxzst/PictureToExcel/blob/master/images/1.jpg
